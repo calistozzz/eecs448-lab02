@@ -60,7 +60,7 @@ std::vector<T> LinkedList<T>::toVector() const
 		temp = temp->getNext();
 	}
 
-	return(vec);
+	return(vec);asdasdasdad
 
 }
 
